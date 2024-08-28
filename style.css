@@ -1,0 +1,88 @@
+:div1{
+  background-color: aqua;
+}
+  img{
+  width: 300px;
+  height: 300;
+  margin-top: 25px;
+
+  border-radius: 300px;
+  border-style: groove;
+  border-color: aquamarine;
+  
+}
+img:hover{
+  width: 400px;
+  height: 400px;
+}
+ header{
+  text-align: center;
+  color: rgb(42, 219, 219);
+  font-family: cursive;
+  font-size: 50px;
+  text-decoration-line:inherit;
+  
+ } 
+ h3{
+  text-align: center;
+  color: rgb(12, 196, 135);
+  font-family: fantasy;
+  font-size: 27px;
+  
+ 
+}
+button{
+  height: 45px;
+ 
+  border: radius 10px;
+  border-color: aquamarine; 
+  background-color: blue;
+  color: aliceblue;
+    
+}
+body{
+  background-color: #f0f3ff;
+  
+  
+}
+.body2{
+  background-image: motoqueiro;
+}
+
+
+button{
+ text-align: center ;
+ left: 50px;
+ width: 250px;
+ 
+
+}
+h2{
+  text-align: center;
+  color: rgb(12, 196, 135);
+  font-family: fantasy;
+  font-size: 50px;
+  
+}
+button:hover{
+background-color: aqua;
+color: black;
+
+}  
+input{
+  margin-top: 20px;
+}
+input:hover{
+background-color: rgb(176, 234, 236);
+}
+li{
+  font-size: 40px;
+  font-family: cursive;
+  color: cadetblue;
+  margin-top: 50px;
+}
+
+
+  
+
+
